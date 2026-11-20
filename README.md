@@ -1,4 +1,4 @@
-# 小卷
+# 李雅洁 / Li Yajie
 
 **通信工程 本科在读（2023 级）· 淮南师范学院 · 求职方向：AI Agent / 应用开发**
 
@@ -47,7 +47,7 @@
 - IndexedDB 三张表持久化，支持 JSON 备份导出与导入
 - 深浅色三档主题，图片缩放查看
 
-在线体验：[Demo](https://024bb0c4d8d64695b7f852cf63aec87b.app.workbuddy.host)
+在线体验：[Demo](https://li2382187997.github.io/paint-workbench/)
 
 ### [linux-smart-home](https://github.com/li2382187997/linux-smart-home)
 **嵌入式 Linux 智能家居控制终端 · C**
